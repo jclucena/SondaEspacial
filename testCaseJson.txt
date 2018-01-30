@@ -1,0 +1,25 @@
+{
+	"Planalto": "5 5",
+	"Posicao Inicial": "1 2 N",
+	"Caminho": "LMLMLMLMM"
+ }
+
+
+{
+	"Planalto": "5 5",
+	"Posicao Inicial": "3 3 E",
+	"Caminho": "MMRMMRMRRM"
+ }
+
+
+{
+	"Planalto": "5 5",
+	"Posicao Inicial": "1 2 N",
+	"Caminho": "LmLmLmlMMrrMMMRMRMMMMMRMMMMM"
+ }
+
+{
+	"Planalto": "5 5",
+	"Posicao Inicial": "1 2 N",
+	"Caminho": "LmLmLmlMMrrMMMRMRMmMMMRMMMMMmM"
+ }
